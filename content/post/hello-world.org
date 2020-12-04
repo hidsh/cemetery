@@ -1,9 +1,7 @@
 #+TITLE: Hello World
 #+DATE: 2020-12-04T15:32:33+09:00
-#+PUBLISHDATE: 2020-12-04T15:32:33+09:00
 #+DRAFT: false
 #+TAGS:
-#+DESCRIPTION: Short description
 
 ** hello world
 

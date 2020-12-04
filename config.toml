@@ -43,11 +43,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 30
   identifier = "tags"
   url = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+# [[menu.main]]
+#   name = "Categories"
+#   weight = 40
+#   identifier = "categories"
+#   url = "/categories/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -59,12 +59,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Even"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "TODO墓場"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","even"]
-  description = "ここはTODO墓場。かつて、達成しようと心に決めたにも関わらず、見限られた者たちが流れ着く寂しい墓場..."
+  # description = "ここはTODO墓場。かつて、達成しようと心に決めたにも関わらず、見限られた者たちが行き着く先..."
+  description = "あの日 達成しようと決心したにも関わらず、見限られた彼らが行き着いた場所"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archivePaginate = 50
+  archivePaginate = 100
 
   # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
   showArchiveCount = false
@@ -131,7 +132,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     warn = 180              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
 
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = "hidsh"              # Your GitHub ID
+    owner = ""              # Your GitHub ID
     repo = ""               # The repo to store comments
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
@@ -178,22 +179,22 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
-  [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    e-linkedin = "http://localhost:1313"
-    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    k-pocket = "http://localhost:1313"
-    l-tumblr = "http://localhost:1313"
-    m-instagram = "http://localhost:1313"
-    n-gitlab = "http://localhost:1313"
-    o-bilibili = "http://localhost:1313"
+  # [params.social]                                         # 社交链接
+  #   a-email = "mailto:your@email.com"
+  #   b-stack-overflow = "http://localhost:1313"
+  #   c-twitter = "http://localhost:1313"
+  #   d-facebook = "http://localhost:1313"
+  #   e-linkedin = "http://localhost:1313"
+  #   f-google = "http://localhost:1313"
+  #   g-github = "http://localhost:1313"
+  #   h-weibo = "http://localhost:1313"
+  #   i-zhihu = "http://localhost:1313"
+  #   j-douban = "http://localhost:1313"
+  #   k-pocket = "http://localhost:1313"
+  #   l-tumblr = "http://localhost:1313"
+  #   m-instagram = "http://localhost:1313"
+  #   n-gitlab = "http://localhost:1313"
+  #   o-bilibili = "http://localhost:1313"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]

@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+#baseURL = "http://localhost:1313/"
+baseURL = "https://todo-cemetery.netlify.app/"
 languageCode = "ja"
 defaultContentLanguage = "ja"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "TODO 墓場"

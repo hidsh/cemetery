@@ -1,0 +1,6 @@
+#+TITLE: 名前を!!! check-emacs-setting -> init-checker.el に変更
+#+DATE: 2020-12-06T05:12:45+09:00
+#+DRAFT: false
+#+TAGS[]: test
+* やらなかった理由
+やる気ねはんで

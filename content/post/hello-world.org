@@ -5,7 +5,7 @@
 
 * Hugo test from org-mode
 
-for test Hugo
+for test Hugo ...
 
 - [ ] テスト
 

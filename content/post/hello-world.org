@@ -3,7 +3,7 @@
 #+DRAFT: false
 #+TAGS:
 
-** hello world
+* Hugo test from org-mode
 
 for test Hugo
 

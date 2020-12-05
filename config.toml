@@ -62,7 +62,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   logoTitle = "TODO墓場"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","even"]
   # description = "ここはTODO墓場。かつて、達成しようと心に決めたにも関わらず、見限られた者たちが行き着く先..."
-  description = "あの日 達成しようと決心したにも関わらず、見限られた彼らが行き着いた場所"
+  description = "あの日 達成しようと決心したにも関わらず、見限られた彼らが行き着く場所"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 100

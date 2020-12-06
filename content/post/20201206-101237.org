@@ -1,0 +1,6 @@
+#+TITLE: evil-visual-charのときにj/kでそのシンボルを上/下検索で移動
+#+DATE: 2020-12-06T10:12:37+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+evil-visualでj/kはカーソル移動なのでちょっと無理。

@@ -1,6 +1,0 @@
-#+TITLE: org todo で　M-RET でリストの末尾に行追加
-#+DATE: 2020-12-06T10:12:24+09:00
-#+DRAFT: false
-#+TAGS[]: Emacs
-* やらなかった理由
-しんどいさかいに

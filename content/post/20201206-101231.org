@@ -1,0 +1,6 @@
+#+TITLE: org-capture の todo で 取り消し線 :strike-through t にする
+#+DATE: 2020-12-06T10:12:31+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+やってみたが、かなりうざいのでやらないことにした。

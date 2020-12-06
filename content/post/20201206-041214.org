@@ -1,9 +1,0 @@
-#+TITLE: s.el, f.el を入れてみる
-#+DATE: 2020-12-06T04:12:14+09:00
-#+DRAFT: false
-#+TAGS[]: test
-* やらなかった理由
-やる気ねえけん
-* Link
-- https://github.com/rejeep/f.el
-- https://github.com/magnars/s.el

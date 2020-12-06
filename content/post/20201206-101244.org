@@ -1,0 +1,6 @@
+#+TITLE: scrtch-log を削除
+#+DATE: 2020-12-06T10:12:44+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+あると便利なので、やっぱり入れとく

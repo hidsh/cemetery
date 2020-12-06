@@ -1,0 +1,6 @@
+#+TITLE: org-mode todo で S-j/k で次/前の表題へ
+#+DATE: 2020-12-06T10:12:02+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+S-jはevilの行連結になっているので、カーソルキー上下にバインドしてる

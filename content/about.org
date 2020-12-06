@@ -24,7 +24,7 @@
 
 このサイトは私がふだん使っているTODOリストから自動生成されています。
 
-TODOリストはEmacsの[[https://orgmode.org/ja/][org-mode]]で管理されており、不要になったTODOアイテムの上で~M-0~を押すとこのサイトに転送されるという塩梅です。
+TODOリストはEmacsの[[https://orgmode.org/ja/][org-mode]]で管理されており、不要になったTODOアイテムの上で ~M-0~ を押すとこのサイトに転送されるという塩梅です。
 
 サイト自体は[[https://www.netlify.com/][Netlify]]と[[https://gohugo.io/][Hugo]]に任せっきりですが、具体的には下記のような流れになっています。
 

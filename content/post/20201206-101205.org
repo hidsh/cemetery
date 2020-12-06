@@ -1,0 +1,6 @@
+#+TITLE: org-bullet でcheckbox の X を v にする
+#+DATE: 2020-12-06T10:12:05+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+'X'のままでいい

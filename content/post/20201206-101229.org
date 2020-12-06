@@ -1,0 +1,6 @@
+#+TITLE: org-mode todo の緑はboldなしにする
+#+DATE: 2020-12-06T10:12:29+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+いや、boldのほうが目立っていいのでこのまま。

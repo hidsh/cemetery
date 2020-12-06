@@ -1,0 +1,6 @@
+#+TITLE: org-bullet でcheckbox の X に色をつける
+#+DATE: 2020-12-06T10:12:17+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+今のままでいい。

@@ -1,6 +1,6 @@
-#+TITLE: org-mode でcheckbox X で取り消し線にする
+#+TITLE: mode-line の git をひとつ左に
 #+DATE: 2020-12-06T10:12:09+09:00
 #+DRAFT: false
 #+TAGS[]: Emacs
 * やらなかった理由
-やってみたが、見にくいのでこのままでいい。
+preztoのsorinテーマの配置と合うので今のままでいい。

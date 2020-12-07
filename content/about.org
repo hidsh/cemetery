@@ -31,8 +31,8 @@ TODOリストは[[https://ja.wikipedia.org/wiki/GNU_Emacs][Emacs]]の[[https://o
 
 サイト自体は[[https://www.netlify.com/][Netlify]]と[[https://gohugo.io/][Hugo]]に任せきりですが、具体的には下記のような流れになっています。
 
-1. Emacs/org-mode から TODOアイテムの1行からorgファイルを生成
-2. Emacs/org-mode から ~git add~, ~commit~, ~push~ を実行
+1. org-mode から TODOアイテムの1行からorgファイルを生成
+2. org-mode から ~git add~, ~commit~, ~push~ を実行
 3. Netlifyがリポジトリの更新を検知
 4. Hugoがorgファイルを取り込んでサイトをビルド
 

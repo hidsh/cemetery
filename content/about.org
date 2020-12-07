@@ -48,6 +48,6 @@ Hugoがorgファイルを直接扱えるのがいい感じ。
 
 * リンクとか
 - [[https://github.com/hidsh/cemetery][このサイトのGitHubリポジトリ]]
-- 今の[[https://github.com/hidsh/.emacs.d][.emacs.d]]
+- [[https://github.com/hidsh/.emacs.d][今の.emacs.d]]
 - [[https://twitter.com/_gnrr][Twitter]]
 - [[https://zzz-kbd.com/][zzz-kbd]]

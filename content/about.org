@@ -25,7 +25,7 @@
 
 * しくみとか
 
-このサイトは私がふだん使っているTODOリストから自動生成されています。
+このサイトは墓守がふだん使っているTODOリストから自動生成されています。
 
 TODOリストは[[https://ja.wikipedia.org/wiki/GNU_Emacs][Emacs]]の[[https://orgmode.org/ja/][org-mode]]で管理されており、不要になったTODOアイテムの上で ~M-0~ を押すとこのサイトに転送されるという塩梅です。
 

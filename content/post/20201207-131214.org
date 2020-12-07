@@ -1,0 +1,6 @@
+#+TITLE: fix --> Error during redisplay: (eval (tabbar-line)) signaled (void-variable org-default-notes-file) [4 times]
+#+DATE: 2020-12-07T13:12:14+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+いつのまにか消えてたので解決済み

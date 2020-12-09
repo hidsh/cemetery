@@ -1,6 +1,0 @@
-#+TITLE: emacs から qmk-firmware をビルドする
-#+DATE: 2020-12-10T07:12:15+09:00
-#+DRAFT: false
-#+TAGS[]: Emacs
-* やらなかった理由
-入れてみたけど、うざかったので削除

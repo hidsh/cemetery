@@ -1,0 +1,6 @@
+#+TITLE: org 用にminimapを入れる
+#+DATE: 2020-12-10T08:12:32+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+入れてみたけど、うざかったので削除

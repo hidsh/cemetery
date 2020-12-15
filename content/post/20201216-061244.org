@@ -1,0 +1,6 @@
+#+TITLE: evil-search-forward/backward をregexを使えるようにする
+#+DATE: 2020-12-16T06:12:44+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+evil-search-forward/backwardはそのままregexを入力すればregexを有効化して検索してくれるので、何もしなくて良い。

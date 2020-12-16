@@ -27,7 +27,7 @@
 
 このサイトは墓守がふだん使っているTODOリストから自動生成されています。
 
-TODOリストは[[https://ja.wikipedia.org/wiki/GNU_Emacs][Emacs]]の[[https://orgmode.org/ja/][org-mode]]で管理されており、不要になったTODOアイテムの上で ~M-0~ を押すとこのサイトに転送されるという塩梅です。
+TODOリストは[[https://ja.wikipedia.org/wiki/GNU_Emacs][Emacs]]の[[https://orgmode.org/ja/][org-mode]]で管理されており、不要になったTODOアイテムの上で ~t 0~ を押すとこのサイトに転送されるという塩梅です。
 
 サイト自体は[[https://www.netlify.com/][Netlify]]と[[https://gohugo.io/][Hugo]]に任せきりですが、具体的には下記のような流れになっています。
 

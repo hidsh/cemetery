@@ -31,6 +31,7 @@ TODOリストは[[https://ja.wikipedia.org/wiki/GNU_Emacs][Emacs]]の[[https://o
 
 サイト自体は[[https://www.netlify.com/][Netlify]]と[[https://gohugo.io/][Hugo]]に任せきりですが、具体的には下記のような流れになっています。
 
+[[file:../img/cemetery-block.png]]
 1. org-modeからTODOアイテムの1行からorgファイルを生成
 2. org-modeから ~git add~, ~commit~, ~push~ を実行
 3. Netlifyがリポジトリの更新を検知

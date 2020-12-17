@@ -1,0 +1,6 @@
+#+TITLE: edebug 中は which-func を切る
+#+DATE: 2020-12-17T09:12:35+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+ダリぃけん

@@ -1,0 +1,6 @@
+#+TITLE: my-evil-search-forward regex ON で検索後に n したときに regex ON で再検索できるように
+#+DATE: 2020-12-17T18:12:35+09:00
+#+DRAFT: false
+#+TAGS[]: Emacs
+* やらなかった理由
+これもなにもしなくても、evil-search-nextでそのままできるので不要

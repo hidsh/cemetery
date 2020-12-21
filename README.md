@@ -1,3 +1,3 @@
 # cemetery
 
-The repository of https://cemetery.zzz-kbd.com/
+A repository of my [todo-cemetery](https://cemetery.zzz-kbd.com/).
